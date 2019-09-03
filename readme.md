@@ -4,7 +4,7 @@
 La note sera basé sur la note de certification google ads : 
 - 80% de réussite = 11/20
 
-`https://academy.exceedlms.com/student/collection/9128/path/10798`
+[Certification google ici !](https://academy.exceedlms.com/student/collection/9128/path/10798)
 ​
 ## Plan de formation :
 1. INTRODUCTION
@@ -81,18 +81,28 @@ La note sera basé sur la note de certification google ads :
 |---|---|
 |Plateform dédié au annonceurs|Plateform pour les éditeurs|
 |Faire de la pub dans google et ailleurs|Afficher de la pub|
-|Faire de la pub|**Gagner €**|
-|**Dépense €**||
+|**Dépense €**|**Gagner €**|
 
 ## Principe de base
-*Niveau de qualite et positionnement des annonces*
+*Niveau de qualité et positionnement des annonces*
 
 #### Position d'une annonce : 
 1. Montant de l'enchère du mot clé
+    - Plus on paye mieux on est classé.
 2. Quality score /10
-    - Note qui évalue la qualité des mots clé acheté
-    3 critère : 
+    - Note qui évalue la qualité des mots clé acheté.
+    - 3 critères : 
         - Taux de clic attendu (**CTR : Clic to rate**)
-        - Pertinance de l'annonce 
-        - convivialité de la page de destination
-
+            - Si l'annonce n'atteind pas le taux de clic par Google, elle n'est donc pas pertinente et le quality score baisse et on descend dans les annonces.
+        - Pertinence de l'annonce 
+            - L'annonce doit contenir le **mot clé dans le titre**.
+            - L'annonce doit être pertinente avec le mot clé.
+        - Convivialité de la page de destination
+            - Google s'interesse à la page ou renvoi le lien.
+            - Une page conviviale pour google c'est : 
+                - Responsive.
+                - Temps de chargement rapide.
+                - Page qui correspond a l'intention de recherche.
+                    - Achat | Abonnement | Formulaire
+    - Plus la qualité est élevé moins on paye cher.
+                    
