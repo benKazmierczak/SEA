@@ -77,18 +77,22 @@ La note sera basé sur la note de certification google ads :
     
 ## Google ADS vs ADVENSE
 
-- Goole ads : plateform dédié au annonceurs 
-    - Faire de la pub dans google et ailleurs
-    - Faire de la pub
-    - **Dépense €**
-- Advense : plateform pour les éditeurs
-    - Afficher de la pub 
-    - **Gagner €** 
+|Goole ads|Advense|
+|---|---|
+|Plateform dédié au annonceurs|Plateform pour les éditeurs|
+|Faire de la pub dans google et ailleurs|Afficher de la pub|
+|Faire de la pub|**Gagner €**|
+|**Dépense €**||
 
 ## Principe de base
 *Niveau de qualite et positionnement des annonces*
 
-#### Position d'une annonc : 
+#### Position d'une annonce : 
 1. Montant de l'enchère du mot clé
-2. Quality scoree /10
+2. Quality score /10
+    - Note qui évalue la qualité des mots clé acheté
+    3 critère : 
+        - Taux de clic attendu (**CTR : Clic to rate**)
+        - Pertinance de l'annonce 
+        - convivialité de la page de destination
 
