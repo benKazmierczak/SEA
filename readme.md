@@ -1,4 +1,4 @@
-# SEA
+# Cours de SEA (Search Engine Advertising)
 
 ## Notation : 
 La note sera basé sur la note de certification google ads : 
@@ -74,3 +74,21 @@ La note sera basé sur la note de certification google ads :
     - Google pourrait ne plus être la seul boite sur le marché a proposer des solutions.
     - Possibilité d'ouverture de concurrence.
     - Potentiellement demain pas besoin de passer par google ads pour mettre de la pub sur google. 
+    
+## Google ADS vs ADVENSE
+
+- Goole ads : plateform dédié au annonceurs 
+    - Faire de la pub dans google et ailleurs
+    - Faire de la pub
+    - **Dépense €**
+- Advense : plateform pour les éditeurs
+    - Afficher de la pub 
+    - **Gagner €** 
+
+## Principe de base
+*Niveau de qualite et positionnement des annonces*
+
+#### Position d'une annonc : 
+1. Montant de l'enchère du mot clé
+2. Quality scoree /10
+
