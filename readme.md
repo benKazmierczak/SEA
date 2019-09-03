@@ -128,7 +128,7 @@ La note sera basé sur la note de certification google ads :
 |- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing.|
 |- Les groupes d'annonce : | Regroupement d'une liste de mot clé avec les annonces qui sont associé. Je peux avoir autant d'annonce que je souhaite dans un groupe google ADS|
 |- Les campagnes : | Pour structuré les groupes d'annonces. Je peux avoir autant de campagne que de groupe d'annonce. Mission a connaitre ![alt text](img/warning.png) : Appliquer des paramètre au groupe d'annonce qui les composent.|
-|- Paramètre de campagne : | Ciblage géo, Language, Durée, Budget, Stratégie d'enchère|
+|- Paramètre de campagne : | Ciblage géo, Language, Durée, Budget, Stratégie d'enchère, Réseaux|
 
 ![alt text](https://www.definitions-marketing.com/wp-content/uploads/IMG2/jpg/groupe-annonces.jpg "Entité")
 
