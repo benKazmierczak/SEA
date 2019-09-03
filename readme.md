@@ -70,3 +70,7 @@ La note sera basé sur la note de certification google ads :
     - Règle : Une marque peut interdire son utilisation dans l'annonce. Mais peut autoriser certains site de l'utiliser.
     
 - ABUS DE POSITION DOMINANTE
+    - Google a fait disparaitre les comparateurs de prix et à prit le marché. Cette histoire a ouvert un problème de position dominante de Google. 
+    - Google pourrait ne plus être la seul boite sur le marché a proposer des solutions.
+    - Possibilité d'ouverture de concurrence.
+    - Potentiellement demain pas besoin de passer par google ads pour mettre de la pub sur google. 
