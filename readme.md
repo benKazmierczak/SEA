@@ -1,12 +1,12 @@
-#SEA
+# SEA
 
-##Notation : 
+## Notation : 
 La note sera basé sur la note de certification google ads : 
 - 80% de réussite = 11/20
 
 `https://academy.exceedlms.com/student/collection/9128/path/10798`
 ​
-##Plan de formation :
+## Plan de formation :
 1. INTRODUCTION
 2. DEFINIR SA STRATEGIE
 3. CREER UNE CAMPAGNE
