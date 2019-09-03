@@ -134,24 +134,22 @@ La note sera basé sur la note de certification google ads :
 
 ![alt text](https://www.definitions-marketing.com/wp-content/uploads/IMG2/jpg/groupe-annonces.jpg "Entité")
 
-### Les extensions d'annonce
+### Les extensions d'annonce :
 _Il existe plein d'extension d'annonce. Elle sont gratuite._
 
-- Lien annexe
-    - Placeer sous la descritpion
-- Accroche
-    - Très courte phrase. Incitation à la conversion.
-- Extension d'appel 
-    - Ajouter un numéro de tel
-- Extension de lieu
-    - Permet d'ajouter une adresse
-- Extension de prix
-    - Ajouter un prix
-- Extension de promotion
-    - Ajouter les offres spécials
-- Extension d'application
-    - Liens vers une application
-- Etc..
+|||
+|---|---|
+|Lien annexe|Placer sous la descritpion.|
+|Accroche|Très courte phrase. Incitation à la conversion.|
+|Extension d'appel|Ajouter un numéro de tel.|
+|Extension de lieu|Permet d'ajouter une adresse|
+|Extension de prix|Ajouter un prix|
+|Extension de promotion|Ajouter les offres spécials|
+|Extension d'application|Liens vers une application|
+|Etc..||
+
+## Definir un budget :
+- Google facture au moins 5€ à la création de votre compte
 
 
 
