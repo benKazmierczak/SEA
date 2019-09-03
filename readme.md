@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SEA
+=======
+#SEA 
+>>>>>>> 5dc71188be69a3cf7c1b9488bfb2c9c9fe2d3f56
 
 ## Notation : 
 La note sera basé sur la note de certification google ads : 
