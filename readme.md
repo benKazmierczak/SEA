@@ -167,6 +167,6 @@ _Il existe plein d'extension d'annonce. Elle sont gratuite._
             - ex : 100 clic sur les annonces --> 2 vente
         - Retour sur investissement
             - Voir si on est rentable ou pas
-        - Coût moyen de conversiongit 
+        - Coût moyen de conversion
 
 
