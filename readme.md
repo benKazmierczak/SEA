@@ -154,6 +154,19 @@ _Il existe plein d'extension d'annonce. Elle sont gratuite._
 
 ## Definir ses indicateurs de performance (KPI)
 
-
+- 2 grand type de KPI
+    - Performance
+        - Taux de clic
+            - Un CTR acceptable commence a 2% 
+        - Quality score
+        - Montant des enchères
+        - Nombre de clic
+        - Nombre d'impression
+    - Rentabilité
+        - Taux de conversion
+            - ex : 100 clic sur les annonces --> 2 vente
+        - Retour sur investissement
+            - Voir si on est rentable ou pas
+        - Coût moyen de conversiongit 
 
 
