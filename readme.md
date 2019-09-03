@@ -150,6 +150,10 @@ _Il existe plein d'extension d'annonce. Elle sont gratuite._
 
 ## Definir un budget :
 - Google facture au moins 5€ à la création de votre compte
+- Pas de réèl régles, il vaux mieux faire des tests
+
+## Definir ses indicateurs de performance (KPI)
+
 
 
 
