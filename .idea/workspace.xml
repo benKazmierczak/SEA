@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="404">
-                <caret line="127" column="295" lean-forward="true" selection-start-line="127" selection-start-column="295" selection-end-line="127" selection-end-column="295" />
+              <first_editor relative-caret-position="574">
+                <caret line="152" column="24" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,12 +87,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567496960738</updated>
-      <workItem from="1567496961956" duration="5990000" />
+      <workItem from="1567496961956" duration="6437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5990000" />
+    <option name="totallyTimeSpent" value="6437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -147,8 +147,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="404">
-            <caret line="127" column="295" lean-forward="true" selection-start-line="127" selection-start-column="295" selection-end-line="127" selection-end-column="295" />
+          <first_editor relative-caret-position="574">
+            <caret line="152" column="24" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>

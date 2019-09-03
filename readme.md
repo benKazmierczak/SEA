@@ -122,16 +122,36 @@ La note sera basé sur la note de certification google ads :
 
 *Certainement l'un des points les plus important de ce cours*
 
-|Entitié||
+###Entité :
+
+|||
 |---|---|
 |- Mot clé : |Terme qu'on veux acheter pour être visible|
-|- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing. Les annonces sont composé de : 3 titres (séparé par des pipes, afficher titre 1 mot clé et le nom du site en titre 3), 1 URL a afficher, 1 URL de destination, 2 descriptions|
+|- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing. Les annonces sont composé de : 3 titres (séparé par des pipes, afficher en titre 1 le mot clé, en titre 3 le nom du site ), 1 URL a afficher, 1 URL de destination, 2 descriptions|
 |- Les groupes d'annonce : | Regroupement d'une liste de mot clé avec les annonces qui sont associé. Je peux avoir autant d'annonce que je souhaite dans un groupe google ADS|
 |- Les campagnes : | Pour structuré les groupes d'annonces. Je peux avoir autant de campagne que de groupe d'annonce. Mission a connaitre ![alt text](img/warning.png) : Appliquer des paramètre au groupe d'annonce qui les composent.|
 |- Paramètre de campagne : | Ciblage géo, Language, Durée, Budget, Stratégie d'enchère, Réseaux|
 
 ![alt text](https://www.definitions-marketing.com/wp-content/uploads/IMG2/jpg/groupe-annonces.jpg "Entité")
 
+### Les extensions d'annonce
+_Il existe plein d'extension d'annonce. Elle sont gratuite._
+
+- Lien annexe
+    - Placeer sous la descritpion
+- Accroche
+    - Très courte phrase. Incitation à la conversion.
+- Extension d'appel 
+    - Ajouter un numéro de tel
+- Extension de lieu
+    - Permet d'ajouter une adresse
+- Extension de prix
+    - Ajouter un prix
+- Extension de promotion
+    - Ajouter les offres spécials
+- Extension d'application
+    - Liens vers une application
+- Etc..
 
 
 
