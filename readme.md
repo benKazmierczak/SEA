@@ -20,16 +20,14 @@ La note sera basé sur la note de certification google ads :
 ​
 
 **SEO vs SEA :** 
-​
 
 |SEA|SEO|
 |---|---|
-|- Pour chaque visite un coût|- Une fois le SEO installé plus de coût |
-|- Plus sûr d'atteindre les objectifs|- Peu fiable en cas de mise a jours google|​
+|Pour chaque visite un coût|Une fois le SEO installé plus de coût |
+|Plus sûr d'atteindre les objectifs|Peu fiable en cas de mise a jours google|​
 ​
 
 **Les réseaux google ads :**
-​
 - Google ads anciennement adwords
 - Premier réseau: réseau de recherche 
     - Achat de mot clé
@@ -45,6 +43,7 @@ La note sera basé sur la note de certification google ads :
     - Faire de la pub en format vidéo
         - Affichage sur Youtube
 ​
+
 **Objectif des réseaux :**
 - Lorsque l'ont cherche a être visible sur le réseau de recherche ou shopping 
     - Objectif : vente
@@ -55,5 +54,20 @@ La note sera basé sur la note de certification google ads :
 - R.O.I (Return on investment)
     - Difficulté de rentabilité aujourd'hui comparé au début de google ads.
 - FRAUDE
+    - Attention au bot 
+    - Ne pas simuler des CPC
+    - Etc..
 - LEGISLATION
+
+    |PUB|~~PUB~~|
+    |---|---|
+    |Sextoy|Alcool|
+    |Alcool|Médicament|
+    |Tabac|Cigarette electronique|
+    |Chaussure|Pornographie|
+    |Fleurs|Drogue|
+    
+    - Il est possible de faire de la pub d'une marque en particulier (exemple lunette ray ban).
+    - Règle : Une marque peut interdire son utilisation dans l'annonce. Mais peut autoriser certains site de l'utiliser.
+    
 - ABUS DE POSITION DOMINANTE
