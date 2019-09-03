@@ -125,12 +125,13 @@ La note sera basé sur la note de certification google ads :
 |Entitié||
 |---|---|
 |- Mot clé : |Terme qu'on veux acheter pour être visible|
-|- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing.|
+|- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing. Les annonces sont composé de : 3 titres (séparé par des pipes, afficher titre 1 mot clé et le nom du site en titre 3), 1 URL a afficher, 1 URL de destination, 2 descriptions|
 |- Les groupes d'annonce : | Regroupement d'une liste de mot clé avec les annonces qui sont associé. Je peux avoir autant d'annonce que je souhaite dans un groupe google ADS|
 |- Les campagnes : | Pour structuré les groupes d'annonces. Je peux avoir autant de campagne que de groupe d'annonce. Mission a connaitre ![alt text](img/warning.png) : Appliquer des paramètre au groupe d'annonce qui les composent.|
 |- Paramètre de campagne : | Ciblage géo, Language, Durée, Budget, Stratégie d'enchère, Réseaux|
 
 ![alt text](https://www.definitions-marketing.com/wp-content/uploads/IMG2/jpg/groupe-annonces.jpg "Entité")
+
 
 
 
