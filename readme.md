@@ -75,7 +75,7 @@ La note sera basé sur la note de certification google ads :
     - Possibilité d'ouverture de concurrence.
     - Potentiellement demain pas besoin de passer par google ads pour mettre de la pub sur google. 
     
-## /!\ Google ADS vs ADVENSE
+## ![alt text](img/warning.png) Google ADS vs ADVENSE
 
 |Goole ads|Advense|
 |---|---|
@@ -87,7 +87,7 @@ La note sera basé sur la note de certification google ads :
 *Niveau de qualité et positionnement des annonces*
 
 
-#### /!\ Position d'une annonce : 
+#### ![alt text](img/warning.png) Position d'une annonce : 
 1. Montant de l'enchère du mot clé
     - Plus on paye mieux on est classé.
 2. Quality score /10
@@ -118,7 +118,8 @@ La note sera basé sur la note de certification google ads :
 - SEA : Autant de mot clé que l'on veut.
 - Outils de plannification de google ads.
 
-## /!\ Structuration d'un compte ADS
+## ![alt text](img/warning.png) Structuration d'un compte ADS 
+
 *Certainement l'un des points les plus important de ce cours*
 
 |Entitié||
@@ -126,4 +127,6 @@ La note sera basé sur la note de certification google ads :
 |- Mot clé : |Terme qu'on veux acheter pour être visible|
 |- Les annonces : |Annonces associé au mot clé. Toujours faire plusieurs annonces (3 minimum) pour faire de l'AB testing.|
 |- Les groupes d'annonce : | Regroupement d'une liste de mot clé avec les annonces qui sont associé. Je peux avoir autant d'annonce que je souhaite dans un groupe google ADS|
+
+![alt text](https://www.definitions-marketing.com/wp-content/uploads/IMG2/jpg/groupe-annonces.jpg "Entité")
 
