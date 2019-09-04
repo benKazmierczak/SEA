@@ -2,7 +2,7 @@
 
 ## Cours : 
 
-[Cours](bit.ly/cours-sea)
+[Cours](https://haikudeck.com/cours-google-adwords-education-presentation-P0mOc2TkOd)
 
 ## Notation : 
 La note sera basé sur la note de certification google ads : 
