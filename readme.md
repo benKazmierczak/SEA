@@ -169,4 +169,26 @@ _Il existe plein d'extension d'annonce. Elle sont gratuite._
             - Voir si on est rentable ou pas
         - Coût moyen de conversion
 
+## Focus sur le ciblage ![alt text](img/warning.png)
 
+- Il est possible de gérer qui vois les pub grace au ciblage
+- Les options de ciblage en search ne sont pas les même qu'en display
+
+| |Search - Audiance (permet de gérer qui peut voir la publicité)|
+|---|---|
+|Option 1 : |Liste de remarketing: chercher a toucher des personnes qui sont déjà passer par notre site. Permet de relancer une personne|
+|Option 2 : |Donnée demographique: gestion par critère (femme, homme, catégorie sociaux professionnel, tranche d'âge)|
+
+| |Display (Reseau display)||
+|---|---|---|
+|Ou|Ciblage par mots cles|Les mots clé spécifié doivent être présent dans la page pour que la pub soit affiché|
+|Ou|Emplacement|Spécifie les sites, les pages, voir les emplacements publicitaire sur les pages. Je choisi ou je veux faire apparaitre ma pub.|
+|Ou|Themes|Je choisi le thème ou je veux mettre ma pub (ex: Sport, Bijoux, Foot, Etc..)|
+|Qui|Centre d'interet et liste de remarketing|Liste de remarketing: chercher a toucher des personnes qui sont déjà passer par notre site. Permet de relancer une personne|
+|Qui|Données demographique|Donnée demographique: gestion par critère (femme, homme, catégorie sociaux professionnel, tranche d'âge)|
+
+**Search avec display (audiance/display)**
+- Mots clés
+- Emplacements
+- Liste de remarketing
+- Donnés demographique
