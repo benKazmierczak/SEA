@@ -205,10 +205,28 @@ _Il existe plein d'extension d'annonce. Elle sont gratuite._
 - Accélérée : Google affiche les pub dès que possible (avantage: quand on a un très gros budget)
 
 **R.O.S :**
-L'argent dépenser dans la publicité soit commencer par les ventes
+L'argent dépenser dans la publicité doit ^^recompenser par les ventes
+
 **R.O.I :**
 
-Exemple : 100€ dans google ads. C.A = 300€
+Exemple : 
+- 100€ dans google ads. 
+- C.A = 300€
 - ROAS = 300/100 = 3
 - Marge 50€ 
 - Donc R.O.I pas bon j'ai perdu 50€ 
+
+## Type de correspondance 
+
+- Requête large
+    - C'est le mal, ne jamais l'utiliser
+        - Je veux apparaitre sur n'importe quel recherche qui contient un des mots dans mon mot clé ou sur des synonymes.
+- Requête + large + modifiée
+    - On met des + devant les mot qu'on souhaite
+        - Google interdit les synonymes.
+- Expression exacte
+    - Achat du mot clé avec des ""
+        - Je veux apparaitre dans toutes les recherches qui contient mon mot clé.
+- Mot clé exacte
+    - Achat du mot clé avec des [] 
+        - Je veux apparaitre uniquement sur ce mot clé la ! (faute d'orthograhe comprise, singulier pluriel et mot de liaison).
