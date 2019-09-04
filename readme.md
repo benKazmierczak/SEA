@@ -1,5 +1,9 @@
 # Cours de SEA (Search Engine Advertising)
 
+## Cours : 
+
+[Cours](bit.ly/cours-sea)
+
 ## Notation : 
 La note sera basé sur la note de certification google ads : 
 - 80% de réussite = 11/20
