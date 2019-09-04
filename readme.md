@@ -60,7 +60,7 @@ La note sera basé sur la note de certification google ads :
 
     |PUB|~~PUB~~|
     |---|---|
-    |Sextoy|Alcool|
+    |Sextoy|sexe|
     |Alcool|Médicament|
     |Tabac|Cigarette electronique|
     |Chaussure|Pornographie|
@@ -75,9 +75,9 @@ La note sera basé sur la note de certification google ads :
     - Possibilité d'ouverture de concurrence.
     - Potentiellement demain pas besoin de passer par google ads pour mettre de la pub sur google. 
     
-## ![alt text](img/warning.png) Google ADS vs ADVENSE
+## ![alt text](img/warning.png) Google ADS vs ADSENSE
 
-|Goole ads|Advense|
+|Goole ads|Adsense|
 |---|---|
 |Plateform dédié au annonceurs|Plateform pour les éditeurs|
 |Faire de la pub dans google et ailleurs|Afficher de la pub|
@@ -122,7 +122,7 @@ La note sera basé sur la note de certification google ads :
 
 *Certainement l'un des points les plus important de ce cours*
 
-###Entité :
+### Entité :
 
 |||
 |---|---|
